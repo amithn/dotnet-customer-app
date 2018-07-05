@@ -2,5 +2,6 @@
 applications:
   - name: hello-world-dot-net
     memory: 1GB
+    instances: 1
     env:
       CACHE_NUGET_PACKAGES: false
