@@ -1,0 +1,6 @@
+---
+applications:
+  - name: hello-world-dot-net
+    memory: 1GB
+    env:
+      CACHE_NUGET_PACKAGES: false
