@@ -1,5 +1,5 @@
 ﻿
-namespace helloworld
+namespace customer.experience
 {
     public class Customer
     {
